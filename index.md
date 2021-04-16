@@ -14,4 +14,7 @@ Dr. Amanda Stent is the NLP architect and team lead for the People and Language 
 
 [CV](files/stentcv.pdf)
 
+## Interviews, Thoughts etc
+
+[Blog](blog.html)
 
