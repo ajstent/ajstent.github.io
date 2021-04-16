@@ -9,7 +9,7 @@ title:
 ## Biography
 
 Dr. Amanda Stent:
-* is the NLP architect and team lead for the People and Language AI team in the Data Science Group of the Chief Technology Office at [Bloomberg](https://www.techatbloomberg.com/). 
+* Is the NLP architect at [Bloomberg](https://www.techatbloomberg.com/), and team lead for the People and Language AI team in the Data Science Group of the Chief Technology Office. 
 * Previously held positions as Director of Research and Principal Research Scientist at Yahoo, as Principal Member of Technical Staff at AT&T Labs — Research, and as associate professor in the Computer Science Department at Stony Brook University in Stony Brook, NY.
 * Holds a Ph.D. in computer science from the University of Rochester.
 * Has authored or co-authored over 100 papers on natural language processing and is co-inventor on over 30 patents.
