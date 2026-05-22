@@ -20,3 +20,10 @@ Dr. Amanda Stent:
 * [CV](files/stentcv.pdf)
 * [Resume](files/Amanda_Stent_Resume.pdf)
 
+## Select Media
+
+* [UK Tech News, February 2026](https://www.uktech.news/the-circuit/in-conversation-with-bloombergs-amanda-stent-20260210)
+* [Computer Weekly, May 2025](https://www.computerweekly.com/news/366623777/Interview-Amanda-Stent-head-of-AI-strategy-and-research-Bloomberg)
+* [University of Rochester, January 2025](https://www.rochester.edu/newscenter/amanda-stent-bloomberg-artificial-intelligence-industry-academia-636112/)
+* [Colby News, August 2023](https://news.colby.edu/story/sure-start-getting-a-head-start-on-ai/)
+
