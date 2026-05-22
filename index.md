@@ -17,6 +17,6 @@ Dr. Amanda Stent:
 
 ## Curriculum Vitae / Resume
 
-[CV](files/stentcv.pdf)
-[Resume](files/Amanda_Stent_Resume.pdf)
+* [CV](files/stentcv.pdf)
+* [Resume](files/Amanda_Stent_Resume.pdf)
 
